@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NDR", "NDR\NDR.csproj", "{DD58D266-C3F6-49B6-BCF6-D4182BA37758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD58D266-C3F6-49B6-BCF6-D4182BA37758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD58D266-C3F6-49B6-BCF6-D4182BA37758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD58D266-C3F6-49B6-BCF6-D4182BA37758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD58D266-C3F6-49B6-BCF6-D4182BA37758}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE20ED4E-6B5E-408F-A3C9-FA66D5FB6D2B}
+	EndGlobalSection
+EndGlobal
